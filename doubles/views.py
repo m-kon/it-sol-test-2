@@ -2,7 +2,7 @@
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
-from . import models
+#from . import models
 #from .serializers import CompanySerializer
 import data_for_hook, hook
 
